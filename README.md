@@ -1,5 +1,11 @@
 # Cancer  incidence and competing mortality risk following 15 presenting symptoms in primary care: a population-based cohort study using electronic healthcare records
 
+Contains the major analysis scripts used for the analysis, and the main results files. Almost all in Stata format.
+
+Note - this repository does not include any source data, which must be requested from CPRD.
+
+Note - the code here will require minor editing to run, as the repository does not quite match the structure of the folder within our secure data environment.
+
 ## Abstract
 
 ### Objectives: 
