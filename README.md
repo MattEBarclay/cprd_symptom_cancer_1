@@ -6,6 +6,8 @@ Note - this repository does not include any source data, which must be requested
 
 Note - the code here will require minor editing to run, as the repository does not quite match the structure of the folder within our secure data environment.
 
+Errata: Table 2 gives ages at which cancer risk is judged to be above 3%; the table is correct and the information was incorrectly copied into the text. Thank you to Gladys Langue for highlighting my error.
+
 ## Abstract
 
 ### Objectives: 
